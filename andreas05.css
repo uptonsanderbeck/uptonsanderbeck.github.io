@@ -15,7 +15,12 @@ img {float:left; margin:0 10px 5px 0;}
 
 /* Headers */
 h1 {color:#FFFFFF; font-size:3.6em; letter-spacing:-3px; margin:0; text-align:right;}
-h2 {font-size:1.6em; font-weight:normal; letter-spacing:-1px; margin:5px 0 10px;}
+h2 {font-size:1.6em; font-weight:bold; letter-spacing:-1px; margin:5px 0 10px;}
+
+/* Other formatting */
+f1 {font-size:1.2em; font-weight:bold; color:#4682B4;}
+f2 {font-size:1.0em; font-weight:bold; color:#4682B4;}
+
 
 /* IDs */
 #title {margin:20px auto -9px; width:700px;}
@@ -31,5 +36,5 @@ h2 {font-size:1.6em; font-weight:normal; letter-spacing:-1px; margin:5px 0 10px;
 .menu:hover {background-color:#f8f8f8; border:1px solid #cccccc; color:#333333; text-decoration:none;}
 
 /* Various classes */
-.credits {color:#777; font-size:0.9em; margin-bottom:0;}
+.credits {color:#777; font-size:0.3em; margin-bottom:0;}
 .credits a {color:#777;}
