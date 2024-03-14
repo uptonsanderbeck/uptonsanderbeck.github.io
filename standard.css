@@ -21,7 +21,7 @@ f2 {font-size:1.0em; font-weight:bold; color:#4682B4;}
 
 /* IDs */
 #title {margin:20px auto -9px; width:1200px;}
-#container {background:#fff url(Phoebe__.jpg) bottom left no-repeat; border:20px solid #B0C4DE; color:#000000; margin:0 auto 15px; padding:10px; width:1000px; line-height:1.3em;}
+#container {background:#fff url(Phoebe__.jpg) bottom left no-repeat; border:20px solid #B0C4DE; color:#000000; margin:0 auto 15px; padding:10px; width:1000px; line-height:1.6em;}
 #sidebar {float:left; padding-left:175px; width:110px;}
 #sidebar p {margin:10px 0 5px 10px; text-align:left; font-size:0.8em;}
 #sidebar p a {font-weight:400;}
