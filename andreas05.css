@@ -28,7 +28,7 @@ f2 {font-size:1.0em; font-weight:bold; color:#4682B4;}
 #sidebar {float:left; padding-left:175px; width:110px;}
 #sidebar p {margin:10px 0 5px 10px; text-align:left; font-size:0.8em;}
 #sidebar p a {font-weight:400;}
-#main {float:right; width:385px;}
+#main {float:right; width:500px;}
 #footer {clear:both; color:#aaa;}
 
 /* Menu */
